@@ -8,3 +8,6 @@ Append your email and GColab link in the given format.
 {
     "iec2020132@iiita.ac.in": "https://colab.research.google.com/drive/1y8Q0z1BpiJmWD80kE9ElPIdv8XohJHzI?usp=sharing"
 },
+{
+    "iec2020128@iiita.ac.in": "https://colab.research.google.com/drive/1l4b6ZjtlkncDIWqigsZz5xJOJQYmo8-R?usp=sharing"
+},
