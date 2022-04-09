@@ -1,0 +1,10 @@
+Ex-Machina Final Round
+
+Append your email and GColab link in the given format.
+
+{
+    "parthsoni03ps@gmail.com": "https://colab.research.google.com/drive/1y8Q0z1BpiJmWD80kE9ElPIdv8XohJHzI?usp=sharing"
+},
+{
+    "iec2020132@iiita.ac.in": "https://colab.research.google.com/drive/1y8Q0z1BpiJmWD80kE9ElPIdv8XohJHzI?usp=sharing"
+},
