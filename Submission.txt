@@ -3,8 +3,8 @@ Ex-Machina Final Round
 Append your email and GColab link in the given format.
 
 {
-    "parthsoni03ps@gmail.com": "https://colab.research.google.com/drive/1y8Q0z1BpiJmWD80kE9ElPIdv8XohJHzI?usp=sharing"
-},
+    "parthashtikar77@gmail.com": "https://colab.research.google.com/drive/1YBzDRtFU07T5RsJo5pkA2bjm7lux454G?usp=sharing"
 {
-    "iec2020132@iiita.ac.in": "https://colab.research.google.com/drive/1y8Q0z1BpiJmWD80kE9ElPIdv8XohJHzI?usp=sharing"
+    "iib2020045@iiita.ac.in": "https://colab.research.google.com/drive/1YBzDRtFU07T5RsJo5pkA2bjm7lux454G?usp=sharing"
+},
 },
