@@ -4,7 +4,8 @@ Append your email and GColab link in the given format.
 
 {
     "parthashtikar77@gmail.com": "https://colab.research.google.com/drive/1YBzDRtFU07T5RsJo5pkA2bjm7lux454G?usp=sharing"
+},
 {
-    "iib2020045@iiita.ac.in": "https://colab.research.google.com/drive/1YBzDRtFU07T5RsJo5pkA2bjm7lux454G?usp=sharing"
+    "kinshukdua@gmail.com": "https://colab.research.google.com/drive/1KmN2d6tCLM2aus1LmGevXC0DidsF6oH-?usp=sharing"
 },
-},
+
